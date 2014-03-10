@@ -1,0 +1,108 @@
+Soartex Changelog
+2.6.1
+Added support for the Better Grass & Trees mod
+Added plains and river eucalyptus tree (birch)
+Compass now points home... sorry all ye lost adventurers
+Floppygunk font now works in vanilla
+Fixed coloring on Armor easter eggs
+Fixed a few bugs in the lightmap
+Fixed cactus on metadata 9
+Fixed white water particles
+Fixed upside down center jungle log CTM
+Removed a few stray files
+Tweaked depth layer of night sky
+Tweaked log top colors
+Added "Don't trust the Soartex Compass!" to the splashes
+
+
+2.6
+Hay bale by Shisensama
+Armor HUD by GoldBattle
+Special font for Vanilla MC
+AyrJr stars
+remade arrow, bow, bone, fishing rod, quiver, shear
+remade boat, bed, cake, cauldron, minecarts, repeater and comparator items
+All armor added- items, models and even horse armor
+thicker carrot and remade golden carrot
+ink sac, lapis, cactus paste, rose bud by Schizoe and Shoe
+Cocoa Beans by Shisensama
+potato, cooked potato, rotten potato by Valsis
+Remade fireball by Valsis
+Enchant glint
+Remade squid+blink
+Remade ender dragon wings, added exploding dragon
+Pumpkin face removed from all placed pumpkin blocks
+Enderman, wither and all horses and donkeys added
+.lang file with white GUI text, fixed "Server" capitalization and red silverfish egg tags
+CIT for custom tools based on enchantments- iron, diamond and gold
+Fermented Spider eye added
+Remade moon to Soar49 1024x sharpness
+Tall grass height is now dependent on biome
+Original Soar49 bricks in the ocean and desert
+CTM on the primary bricks
+Mapicons.png added
+Stemcolor path fix; meloncolor added
+Cracked brick random textures remade
+Glass transparency remake, and biome specific CTM and texturing
+Lattice glass and original glowstone by Soar49 in Nether
+Occasional flowers added to grass in extreme hills biome
+Sun backings reduced in size
+Clouds and spiral by Ermac added to end portal
+Atmospheric clouds layer revised and fade in sooner
+Moon alpha layer to mask stars behind moon
+Golden nugget by Dynamic_Seagull
+Nether star by Shoeboxama and Valsis (woo Hamode, Drum!)
+Inventory effect icons replaced with current versions of textures, hearts more HD
+Iron block texture replacement by Darx in snowy biomes
+Nether brick cracks in nether, nether brick fence custom texture
+Purple obsidian in the end
+Easter egg leather armor- Suit, Ghillie and Cowstume
+CTM Iron and wood pressure plate, lever, button and diode side textures
+Two of the 1x1 arts have been switched. lattice glass is now available in Nether, cabinet now available on jukebox. corresponding credits updated to match
+Wither hearts remade
+Explosion animation added
+Fixed all custom animations... they work now.
+remade anvil
+Placeholder bonemeal
+Remade generic particle animation (torches, nether portal, mycelium)
+Rain particles less saturated, added semitransparency
+Fishing bobber is now round
+Semitransparency added to crit hit, flame and flame animation
+New pumpkin plant
+Potion effect particles remade
+Remade wolves, and added many colors and biome specific varieties
+Reduced vignette and reduced banding
+Entity shadows are now round and smaller
+removed stray pixel from potion bottle, tweaked potion overlay
+CTM completely rewritten for memory optimization and better organization
+Clay CTM for all 17 variations-disabled/removed
+Deserts and nether yellowed
+Revised sky and fog colors
+Remade creative tabs
+Pig easter egg in the mushroom biome; rare albino pigs
+Fishing line and lead textures
+Enchanted hit particles remade
+Female villagers
+placeholder realms icons
+Transucent birch leaves no longer overwrite fast birch leaves
+Nether lightmap
+Potted flower fix for rose
+Lead knot remade by Ezanrki
+Creative search box tweaked
+Custom potion textures
+Skulls remade to be 3D
+Double chest no longer has a catch on the inside lip
+Primary lily lightened for vanilla compatibility
+Netherbrick item sat fix
+Water particle sat fix
+Crit hits with enchanted weapon particle icons remade
+Book GUI rescale so that text fits on the page
+Underwater color added, underwater overlay revised
+Birch leaf color fixed in swamps
+Custom swamp and mushroom biome waters
+Lavadrop custom color bitmap
+Sandstone glyh and smooth tweaked to match sandstone
+Doughnut easter egg by AdamantCeasar
+All repeat textures are now derived from /minecraft/textures/blocks
+Trading and anvil guis have x's to denote failure
+Misc folder mcmetas corrected to prevent console errors
